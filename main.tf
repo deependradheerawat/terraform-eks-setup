@@ -1,8 +1,8 @@
 
 provider "aws" {
   region = "us-west-1"
-  access_key = "AKIA4WY5J7MINOLSFQ6G"
-  secret_key = "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"
+  access_key = "<awsaccesskeyofuser>"
+  secret_key = "<awssecretkeyofuser>"
 }
 
 # Filter out local zones, which are not currently supported 
